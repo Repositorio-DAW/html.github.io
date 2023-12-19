@@ -1,0 +1,15 @@
+body{
+ font-family: 'Roboto', sans-serif;
+
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  color: #4CAF50;
+}
+.Emoji{
+    font-size: 50px;
+    padding-left: 15%;
+    text-decoration: none;
+}
